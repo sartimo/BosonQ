@@ -11,6 +11,7 @@ An open-source mechanical design specifying utilities for operating a sub-atomic
 - **openQASM transpiler for coherent translation of QASM into low-level ESP32**
 - **Low-level code for the qubit state detetion using novel mechanics such as ESR, QPC and SSE**
 - **Low-level code for controlling the circular-impulse generator used to produce electron beams**
+- **Formal Specification for openQASM and integrated formal verification for QASM code**
 
 ## Todo
 

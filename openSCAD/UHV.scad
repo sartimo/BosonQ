@@ -1,1 +1,11 @@
-
+chamber_radius = 40;  // radius of chamber
+chamber_length = 100;  // length of chamber
+flange_radius = 50;  // radius of flange
+flange_thickness = 5;  // thickness of flange
+flange_hole_radius = 15;  // radius of flange hole
+viewport_radius = 20;  // radius of viewport
+viewport_length = 10;  // length of viewport
+feedthrough_radius = 10;  // radius of feedthrough
+feedthrough_length = 50;  // length of feedthrough
+pumping_port_radius = 5;  // radius of pumping port
+pumping_port_length = 20;  // length of pumping port

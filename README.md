@@ -1,4 +1,4 @@
-# boson
+# bosonQ
 An open-source mechanical design specifying utilities for operating a sub-atomic pulse-electron accelerated quantum computer
 
 > Note: this project is still in early planning. I am collecting the required components such as the UHV Chamber and Turbo-Pumps including the HVPSU. After that, I will need to create various interfaces for controlling these components with one central unit. 
@@ -57,3 +57,18 @@ An open-source mechanical design specifying utilities for operating a sub-atomic
 - Arduino Due
 - Raspberry Pi 4
 - BeagleBone Black
+
+## Citation
+
+```tex
+@article {
+  title = {{bosonQ - An open-source mechanical design for a coherent sub-atomic pulse-electron beaming quantum computer}},
+  year = {2020-2023},
+  author = {Timo Sarkar},
+}
+}
+```
+
+## License
+
+The code and all underlying work for bosonQ is released under the Creative Commons Zero v1.0 Universal License.

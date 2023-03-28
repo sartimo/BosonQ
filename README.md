@@ -60,12 +60,11 @@ An open-source mechanical design specifying utilities for operating a sub-atomic
 
 ## Citation
 
-```tex
+```latex
 @article {
   title = {{bosonQ - An open-source mechanical design for a coherent sub-atomic pulse-electron beaming quantum computer}},
   year = {2020-2023},
   author = {Timo Sarkar},
-}
 }
 ```
 

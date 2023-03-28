@@ -55,6 +55,7 @@ An open-source mechanical design specifying utilities for operating a sub-atomic
 ### Possible qCMOS Cameras:
 
 - Hamamatsu ORCA Fusion with drivers here: https://github.com/OxfordIonTrapGroup/orca-camera
+- Hamamatsu Orca Flash4.0: Is a CCD camera but has good use for the detection of low-energy particles
 
 ### Possible microcontrollers:
 

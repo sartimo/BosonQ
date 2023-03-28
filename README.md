@@ -52,6 +52,10 @@ An open-source mechanical design specifying utilities for operating a sub-atomic
 - Spot size: < 100 um
 - Beam stability: < 0.1% over time
 
+### Possible qCMOS Cameras:
+
+- Hamamatsu ORCA Fusion with drivers here: https://github.com/OxfordIonTrapGroup/orca-camera
+
 ### Possible microcontrollers:
 
 - Arduino Due
